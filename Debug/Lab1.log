@@ -1,0 +1,7 @@
+﻿  Lab1.cpp
+c:\users\vincent ha\documents\visual studio 2017\projects\lab1\lab1\lab1.cpp(109): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\vincent ha\documents\visual studio 2017\projects\lab1\lab1\lab1.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\vincent ha\documents\visual studio 2017\projects\lab1\lab1\lab1.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\vincent ha\documents\visual studio 2017\projects\lab1\lab1\lab1.cpp(228): warning C4018: '<': signed/unsigned mismatch
+  Lab1.vcxproj -> C:\Users\Vincent Ha\Documents\Visual Studio 2017\Projects\Lab1\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\Vincent Ha\Documents\Visual Studio 2017\Projects\Lab1\Debug\Lab1.pdb (Partial PDB)
